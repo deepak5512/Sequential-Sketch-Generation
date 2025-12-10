@@ -86,6 +86,7 @@ The model generates sketches step-by-step and exports them as animated GIFs:
 ├── book.gif
 ├── report.pdf
 └── README.md
+```
 
 ## 🚀 How to Run
 
